@@ -7,7 +7,7 @@ module.exports = {
 		}
 	},
 	presets: [],
-	darkMode: false, // or 'media' or 'class'
+	darkMode: 'media', // or 'media' or 'class'
 	theme: {
 		screens: {
 			sm: '600px',
@@ -124,17 +124,17 @@ module.exports = {
 				A700: '#FFD600'
 			},
 			green: {
-				50: '#E8F5E9',
-				100: '#C8E6C9',
-				200: '#A5D6A7',
-				300: '#81C784',
-				400: '#66BB6A',
-				500: '#4CAF50',
-				DEFAULT: '#4CAF50',
-				600: '#43A047',
-				700: '#388E3C',
-				800: '#2E7D32',
-				900: '#1B5E20',
+				50: '#e0f2f0',
+				100: '#b1ded8',
+				200: '#7fc9bf',
+				300: '#4cb4a6',
+				400: '#26a393',
+				500: '#009381',
+				DEFAULT: '#008674',
+				600: '#008674',
+				700: '#007665',
+				800: '#006656',
+				900: '#004a3b',
 				A100: '#B9F6CA',
 				A200: '#69F0AE',
 				A400: '#00E676',
