@@ -16,11 +16,6 @@ const languages = [
 		flag: 'us'
 	},
 	{
-		id: 'tr',
-		title: 'Turkish',
-		flag: 'tr'
-	},
-	{
 		id: 'ar',
 		title: 'Arabic',
 		flag: 'sa'
